@@ -1,1 +1,2 @@
-Hello this is the fast-forward merge from this feature-1 branch.✅
+Hello this is the fast-forward merge from this feature-1 branch ✅.
+Adding another line of emoji ⭐🙂.
