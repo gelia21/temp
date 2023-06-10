@@ -1,3 +1,2 @@
-# temp Hello This is change in the README.md FILE.
-<h1>README.md</h1>
-<p>Go Through this repo</p>
+# temp
+This is the temporary file README.md filr for this repo😄. This is an conflict creation from feature-1 branch.
