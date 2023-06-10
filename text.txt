@@ -1,1 +1,2 @@
 An Emoji 😁
+This is the main file for text.txt
